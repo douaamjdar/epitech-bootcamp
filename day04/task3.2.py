@@ -1,4 +1,4 @@
-message = input("Enter the encrypted message: ")
+message = input("Enter message: ")
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 for key in range(1, 26):
     result = ""
